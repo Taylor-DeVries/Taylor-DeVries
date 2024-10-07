@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a **Software Engineering student at the University of 
 
 - 🌍 **From**: Windsor, Ontario  
 - 🎓 **Studying**: Software Engineering at the University of Waterloo  
-- 💡 **Co-Founder & Lead Software Developer**: [FinBud](https://main.d3buoyj6s1tc6p.amplifyapp.com/)  
+- 💡 **Co-Founder & Lead Software Developer**: [FinBud](https://finbud.ca)  
 - 💻 **Tech Stack**: Angular, React, Typescript, Next.js, Node.js, Express.js, C, C++, Java, AWS
 - 📚 **Passionate about**: Simplifying personal finance for young people and bridging the gap between computer science and business
 - 💼 **Co-op**: Full Stack Developer @ Rocket Innovation Studio  
