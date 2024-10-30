@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm a **Software Engineering student at the University of 
 - 📈 **Advanced Fintech Technologies**
 - 🚀 **Cloud Computing**: AWS, Serverless Architecture
 - 🛠 **Full Stack Development**: Continuously improving my skills in both frontend and backend development.
-- 🤖 **AI**: To improve Virtual Finance Buddy
+- 🤖 **AI**: To improve FinBud
 
 ### Let's Connect:
 
