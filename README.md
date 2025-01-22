@@ -14,13 +14,6 @@ Welcome to my GitHub! I'm a **Software Engineering student at the University of 
 
 - **💸 FinBud**: A platform that guides students through personal finance by providing simple, actionable steps to improve their financial literacy.
 
-### 🔍 What I’m Currently Learning:
-
-- 📈 **Advanced Fintech Technologies**
-- 🚀 **Cloud Computing**: AWS, Serverless Architecture
-- 🛠 **Full Stack Development**: Continuously improving my skills in both frontend and backend development.
-- 🤖 **AI**: To improve FinBud
-
 ### Let's Connect:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/taylor-r-devries)
