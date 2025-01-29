@@ -14,6 +14,8 @@ Welcome to my GitHub! I'm a **Software Engineering student at the University of 
 
 - **💸 FinBud**: A platform that guides students through personal finance by providing simple, actionable steps to improve their financial literacy.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taylor-devries&layout=compact&exclude_repo=BrainScape)
+
 ### Let's Connect:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/taylor-r-devries)
