@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a **Software Engineering student at the University of 
 
 ### ✨ About Me:
 
-- 🎓 **Studying**: Software Engineering at the University of Waterloo
+- 🎓 **Studying**: Software Engineering @ University of Waterloo
 - 💼 Full Stack Developer @ Rocket Innovation Studio: [rocket.com](https://rocket.com/)
 - 💡 **Co-Founder & Lead Software Developer**: [FinBud](https://finbud.ca)  
 - 🌍 **From**: Windsor, Ontario  
