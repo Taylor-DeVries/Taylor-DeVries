@@ -5,15 +5,15 @@ Welcome to my GitHub! I'm a **Software Engineering student at the University of 
 ### ✨ About Me:
 
 - 🎓 **Studying**: Software Engineering @ University of Waterloo
-- 💼 Full Stack Developer @ Rocket Innovation Studio: [rocket.com](https://rocket.com/)
-- 💡 **Co-Founder & Lead Software Developer**: [FinBud](https://finbud.ca)  
+- 💻 Full Stack Developer @ Rocket Innovation Studio: [rocket.com](https://rocket.com/)
+- 🐧 **Co-Founder & Lead Software Developer**: [FinBud](https://finbud.ca)
 - 🌍 **From**: Windsor, Ontario  
 
 ### 🧑‍💻 Projects I'm Working On:
 
 - **💸 FinBud**: A platform that guides students through personal finance by providing simple, actionable steps to improve their financial literacy.
 
-### 💻 My Skills
+### 💡 My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,react,angular,nextjs,nodejs,nestjs,expressjs,html,css,tailwind,c,cpp,python,aws,azure,cypress,jest,docker,kubernetes,mysql,mongodb)](https://skillicons.dev)
 
