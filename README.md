@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Taylor
 
-Welcome to my GitHub! I'm a **Software Engineering student at the University of Waterloo** with a strong passion for **FinTech**, **personal finance education**, and **full-stack development**. 
+Welcome to my GitHub! I'm a **Software Engineering student at the University of Waterloo** with a strong passion for **FinTech**, **Personal Finance**, and **Full-Stack Development**. 
 
 ### ✨ About Me:
 
