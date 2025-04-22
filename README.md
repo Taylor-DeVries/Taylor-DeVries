@@ -15,6 +15,7 @@ Welcome to my GitHub! I'm a **Software Engineering student at the University of 
 - **🌱 Plant Pal**: A fun plant care game to help you relax while working! [plant-pal](https://plantpal-relax.vercel.app/)
 - **😸 Focus Cat**: chrome extension cat-themed pomodoro timer to help you study! [focus-cat](https://github.com/Taylor-DeVries/focus-cat)
 - **🐤 Flappy Pal**: A cute, pastel-themed Flappy Bird–style web game. [flappy-pal](https://flappy-pal.vercel.app/)
+- **📈 Personal Finance Dashboard**: An interactive dashboard to explore and visualize your personal spending habits. [personal-dashboard](https://personal-dashboard.streamlit.app/)
 
 ### 💡 My Skills
 
