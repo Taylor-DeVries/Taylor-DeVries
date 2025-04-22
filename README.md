@@ -6,12 +6,11 @@ Welcome to my GitHub! I'm a **Software Engineering student at the University of 
 
 - 🎓 **Studying**: Software Engineering @ University of Waterloo
 - 💻 Full Stack Developer @ Rocket
-- 🐧 Co-Founder & Lead Software Developer @ FinBud
-- 📍 Windsor, Ontario  
+- 💸 Co-Founder & Lead Software Developer @ FinBud
 
 ### 🧑‍💻 Projects I'm Working On:
 
-- **💸 FinBud**: A platform that guides students by providing simple, actionable steps to improve their financial literacy. [finbud](https://finbud.ca)
+- **🐧 FinBud**: A platform that guides students by providing simple, actionable steps to improve their financial literacy. [finbud](https://finbud.ca)
 - **🌱 Plant Pal**: A fun plant care game to help you relax while working! [plant-pal](https://plantpal-relax.vercel.app/)
 - **😸 Focus Cat**: chrome extension cat-themed pomodoro timer to help you study! [focus-cat](https://github.com/Taylor-DeVries/focus-cat)
 - **🐤 Flappy Pal**: A cute, pastel-themed Flappy Bird–style web game. [flappy-pal](https://flappy-pal.vercel.app/)
@@ -19,7 +18,7 @@ Welcome to my GitHub! I'm a **Software Engineering student at the University of 
 
 ### 💡 My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,angular,nextjs,nodejs,nestjs,expressjs,threejs,vite,html,css,bootstrap,tailwind,c,cpp,python,aws,vercel,azure,cypress,jest,docker,kubernetes,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,angular,nextjs,nodejs,nestjs,expressjs,threejs,vite,html,css,bootstrap,tailwind,c,cpp,python,aws,vercel,azure,cypress,jest,docker,kubernetes,mysql,mongodb,dynamodb)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taylor-devries&layout=compact&exclude_repo=BrainScape)
 
