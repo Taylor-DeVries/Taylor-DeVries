@@ -18,7 +18,7 @@ Welcome to my GitHub! I'm a **Software Engineering student at the University of 
 
 ### 💡 My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,angular,nextjs,nodejs,nestjs,expressjs,threejs,vite,html,css,bootstrap,tailwind,c,cpp,python,aws,vercel,azure,cypress,jest,docker,kubernetes,mysql,mongodb,dynamodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,angular,nextjs,nodejs,nestjs,expressjs,threejs,vite,html,css,bootstrap,tailwind,c,cpp,python,aws,vercel,azure,figma,cypress,jest,docker,kubernetes,mysql,mongodb,dynamodb)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taylor-devries&layout=compact&exclude_repo=BrainScape)
 
