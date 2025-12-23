@@ -6,7 +6,6 @@ Welcome to my GitHub! I'm a **Software Engineering student at the University of 
 
 - 🎓 **Studying**: Software Engineering @ University of Waterloo
 - 💸 Co-Founder & Lead Software Developer @ FinBud
-- 💻 SWE intern @ Vivid Seats
 - 💼 Financial Literacy Ambassador @ Wealthsimple Foundation
 
 ### 🧑‍💻 Projects I'm Working On:
