@@ -1,7 +1,5 @@
 # Hi there! 👋 I'm Taylor
 
-Welcome to my GitHub! I'm a **Software Engineering student at the University of Waterloo** with a strong passion for **FinTech**, **Full-Stack Development**, and **Data Science**. 
-
 ### ✨ About Me:
 
 - 🎓 **Studying**: Software Engineering @ University of Waterloo
