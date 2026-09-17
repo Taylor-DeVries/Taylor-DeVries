@@ -3,7 +3,6 @@
 ### ✨ About Me:
 
 - 🎓 **Studying**: Software Engineering @ University of Waterloo
-- 🛍️ Software Engineering Intern @ Shopify
 
 ### 🧑‍💻 My Projects:
 
