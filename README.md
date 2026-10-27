@@ -6,7 +6,7 @@
 
 ### 🧑‍💻 My Projects:
 
-- **🧗‍♀️ [Personal Website Rock Climbing Game](https://taylor-devries.vercel.app/)**: A personal portfolio website with a built in rock climbing game.
+- **🌎 [Travel Photos Portfolio](https://tays-travel-diary.vercel.app/)**: Showcase of photos I've taken around the world.
 - **🐧 [finbud](https://finbud.ca)**: A platform that guides students by providing simple, actionable steps to improve their financial literacy.
 - **🏎️ [F1 telemetry dashboard](https://f1-telemetry-dashboard.vercel.app/)**: a telemetry analysis dashboard with interactive visualizations and race engineering tools.
 - **🌱 [Plant Pal](https://plantpal-relax.vercel.app/)**: A fun plant care game to help you relax while working!
@@ -18,7 +18,7 @@
 
 ### Let's Connect:
 
-- 🌐 [Personal Website](https://taylor-devries.vercel.app/)
+- 🌐 [Personal Website](https://tdevries.ca)
 - 💼 [LinkedIn](https://www.linkedin.com/in/taylor-r-devries)
 
 Feel free to explore my repositories and reach out if you're interested in collaborating!
