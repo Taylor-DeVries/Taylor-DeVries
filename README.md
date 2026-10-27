@@ -14,7 +14,7 @@
 
 ### 💡 My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,ruby,rails,python,angular,nextjs,nodejs,nestjs,expressjs,threejs,vite,html,css,bootstrap,tailwind,c,cpp,aws,vercel,azure,figma,cypress,jest,docker,kubernetes,mysql,mongodb,dynamodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,ruby,rails,python,angular,nextjs,nodejs,nestjs,expressjs,threejs,tailwind,c,cpp,aws,vercel,azure,figma,cypress,jest,docker,kubernetes,mysql,mongodb,dynamodb)](https://skillicons.dev)
 
 ### Let's Connect:
 
